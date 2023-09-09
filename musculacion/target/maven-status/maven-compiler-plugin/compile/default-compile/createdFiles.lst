@@ -1,0 +1,6 @@
+com\example\musculacion\MusculacionApplication.class
+com\example\musculacion\controllers\MControllers$1.class
+com\example\musculacion\entities\MusculacionDB.class
+com\example\musculacion\controllers\Api.class
+com\example\musculacion\controllers\MControllers.class
+com\example\musculacion\repository\Repositorio.class
