@@ -1,1 +1,11 @@
+version: '3.7'
+
 services:
+  openjdk:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    container_name: appFitness
+    restart: on-failure
+    ports:
+      - "8080:8080"
