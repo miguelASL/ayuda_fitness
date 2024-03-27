@@ -41,5 +41,3 @@ Acceda a los endpoints mediante cualquier cliente HTTP (Postman, navegador, etc.
 
 ## Licencia
 *   Este proyecto está bajo una licencia MIT.
-
-`Espero que este README te sirva como punto de partida para tu proyecto. Puede que necesites hacer ajustes según las especificidades y detalles adicionales de tu implementación. ¡Buena suerte con tu proyecto!`
